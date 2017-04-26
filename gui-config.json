@@ -1,0 +1,36 @@
+{
+  "configs": [
+    {
+      "server": "hjianbo.me",
+      "server_port": 8388,
+      "password": "sspassword",
+      "method": "rc4-md5",
+      "remarks": "hjb",
+      "auth": false
+    },
+    {
+      "server": "104.199.186.176",
+      "server_port": 9091,
+      "password": "wenqiang",
+      "method": "rc4-md5",
+      "remarks": "GCE",
+      "auth": false
+    }
+  ],
+  "strategy": null,
+  "index": 0,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": true,
+  "isVerboseLogging": false,
+  "logViewer": null,
+  "useProxy": false,
+  "proxyServer": null,
+  "proxyPort": 0
+}
